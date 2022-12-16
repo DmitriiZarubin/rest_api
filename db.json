@@ -1,0 +1,11 @@
+{
+  "addsoc": [
+    {
+		"operation": "addSOC",
+		"ctn": "9135876013",
+		"ban": "11111111",
+
+		"FTRCD_DPMK":"DPMK"
+		}
+  ]
+}
